@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+- Home: 'index.md'
+- Maturita: 'maturita.md'
+- WA 3. hodina: 'WA_3.md'
+theme: material
